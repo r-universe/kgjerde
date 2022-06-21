@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "corporaexplorer"]
+	path = corporaexplorer
+	url = https://github.com/kgjerde/corporaexplorer
+	shallow = true
+	registered = true
